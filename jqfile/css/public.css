@@ -1,0 +1,32 @@
+.jQuery_head{
+	height: 35px;
+	border-bottom: 1px solid #7acef4;
+}
+.ico_jQuery_bg{
+	height: 35px;
+	background: url(../img/bg_jQuery.jpg) repeat-x;
+}
+.jQuery_nav{
+	width: 80%;
+	margin: 0 auto;
+}
+.jQuery_footer{
+	width: 100%;
+/*	height: 352px;*/
+	background: url(../img/bg_jQuery2.jpg) repeat;
+	border-top: 1px solid #7acef4;
+	margin-top: -20px;
+}
+.jQuery_contents{
+	background-color: #0769ad;
+	width: 100%;
+/*	height: 1740px;*/
+}
+.books_licence{
+	width: 80%;
+	margin: 0 auto;
+	padding: 45px 0 10px 0;
+}
+/*#highlighter_607441 .toolbar span .toolbar_item{
+	display: none;
+}*/

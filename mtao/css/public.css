@@ -1,0 +1,132 @@
+html{
+	height: 100%;
+	overflow: hidden;
+}
+body{
+	height: 100%;
+	overflow: auto;
+	overflow-x: hidden;
+	font-size: 0.3rem;
+}
+header{
+	width: 100%;
+	height: 1.525rem;
+	background-color: #f95300;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+footer{
+	width: 100%;
+	height: 2.1rem;
+	border-top: 1px solid #5E5A56;
+	border-bottom: 1px solid #5E5A56;
+	position: absolute;
+	background-color: #FFFFFF;
+	left: 0;
+	bottom: 0;
+	overflow: hidden;
+}
+.stick{
+	width: 2.15rem;
+	height: 2.15rem;
+	border: 0.05rem solid #424242;
+	border-radius: 1.125rem;
+	position: absolute;
+	bottom: 3.5rem;
+	right: 0.5rem;
+	background-color: #FFFFFF;
+}
+.stick p{
+	text-align: center;
+	line-height: 0.5rem;
+	font-size: 0.5rem;
+	color: #000000;
+}
+.mobile_content{
+	height: 100%;
+	margin-top: 9.53125%;
+	margin-bottom: 13.125%;
+}
+.ico{
+	background: url(../img/sprits.jpg) no-repeat;
+}
+.ico_tao{
+	width: 1.075rem;
+	height: 0.85rem;
+	background-position: -0.875rem 0;
+	margin: 0.35rem 0 0 0.2rem;
+	background-size: 5rem;
+}
+.seach_list{
+	width: 3.9rem;
+	height: 1rem;
+	background-color: #b52500;
+	margin-left: 0.2rem;
+	margin-top: 0.25rem;
+	border-radius: 0.15rem;
+	padding: 0 5.15rem;
+}
+.ico_zoom{
+	width: 0.55rem;
+	height: 0.525rem;
+	background-position: -0.875rem -0.9rem;
+	display: inline-block;
+	margin-top: 0.25rem;
+	background-size: 5rem;
+}
+.seach_list span{
+	color: #FFFFFF;
+	font-size: 0.5rem;
+	line-height: 1rem;
+}
+.ico_house{
+	width: 0.825rem;
+	height: 0.8rem;
+	background-position: 0 0;
+	display: inline-block;
+	margin: 0;
+	background-size: 5rem;
+}
+.ico_logistics{
+	width: 0.825rem;
+	height: 0.8rem;
+	background-position: 0 -0.875rem;
+	display: inline-block;
+	margin: 0;
+	background-size: 5rem;
+}
+.ico_shopping{
+	width: 0.825rem;
+	height: 0.8rem;
+	background-position: 0 -1.75rem;
+	display: inline-block;
+	margin-left: 0.2rem;
+	background-size: 5rem;
+}
+.ico_minetao{
+	width: 0.825rem;
+	height: 0.8rem;
+	background-position: 0 -2.75rem;
+	display: inline-block;
+	margin-left: 0.4rem;
+	background-size: 5rem;
+	
+}
+.ico_more{
+	width: 0.75rem;
+	height: 0.8rem;
+	background-position: 0 -3.6rem;
+	display: inline-block;
+	margin: 0;
+	background-size: 5rem;
+}
+.mobile_bottom div{
+	margin: 0.3rem 1rem 0 1rem;
+}
+.mobile_bottom div p{
+	font-size: 0.4rem;
+}
+.test_bottom{
+	height: 2.1rem;
+}

@@ -1,0 +1,20 @@
+#ico_jQuery_bg{
+	display: none;
+}
+#mune_top{
+	display: none;
+}
+#seach_loading #hide_nav{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+/*#seach_loading #form_search #search{
+	position: relative;
+}*/
+/*#seach_loading #form_search #ico_zoom{
+	position: absolute;
+	right: 27px;
+	top: 6px;
+}*/

@@ -1,0 +1,10 @@
+.jQuery_head .jQuery_nav, .jQuery_contents .contents_meanbox, .jQuery_footer .books_licence, .jQuery_footer .certificate
+{
+	width: 85%;
+	margin: 0 auto;
+}
+#home_contents_ul li{
+	width: 20%;
+	padding: 0 4%;
+	margin: 0 -2%;
+}

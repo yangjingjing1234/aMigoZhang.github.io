@@ -1,0 +1,49 @@
+#home_contents_left, #cross_browser, #cross_browser li,#home_contents_ul li, #others li, #recommend_books, #certificate_top ul, #certificate_top div
+{
+	width: 100%;
+}
+#downloads_box, #cross_browser li,#home_contents_ul li, #others li, #home_contents_rignt, #certificate_top ul, #certificate_top div
+{
+	float: none;	
+}
+#downloads_box, #home_contents_left, #home_contents_rignt
+{
+	width: 96%;
+	padding: 0 2%;
+}
+#cross_browser
+{
+	margin: 0;
+	padding: 0;
+}
+#cross_browser li{
+	margin-bottom: 15px;
+	padding: 0;
+}
+#home_contents_left{
+	margin: 0;
+}
+#home_contents_ul li{
+	text-align: center;
+}
+.jQuery_head .jQuery_nav, .jQuery_contents .contents_meanbox, .jQuery_footer .books_licence, .jQuery_footer .certificate
+{
+	width: 90%;
+	margin: 0 auto;
+}
+#jQuery_nav .chaining li{
+	padding: 0 5px;
+	font-size: 12px;
+}
+#copyright p{
+	text-align: center;
+}
+#certificate_top ul{
+	text-align: center;
+}
+.bcakcolor_radius{
+	padding: 0 2%;
+}
+#download_jQuery #download_nav{
+	width: 100%;
+}

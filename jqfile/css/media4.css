@@ -1,0 +1,20 @@
+#downloads_box #buttom_download .ico_downloads, #downloads_box .buttom_download span{
+	display: inline-block;
+	float: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+#try_img img{
+	display: block;
+	width: 100%;
+	background-size: contain;
+}
+.jQuery_head .jQuery_nav, .jQuery_contents .contents_meanbox, .jQuery_footer .books_licence, .jQuery_footer .certificate
+{
+	width: 95%;
+	margin: 0 auto;
+}
+/*#form_search #search{
+	width: 85%;
+}*/

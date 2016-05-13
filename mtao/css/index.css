@@ -1,0 +1,459 @@
+.head_seach{
+	height: 100%;
+}
+.immediately_get{
+	width: 100%;
+	height: 2.1rem;
+}
+.ico_1{
+	background: url(../img/sprits_1.jpg) no-repeat;
+}
+.immediately_get_left{
+	width: 77.5%;
+	height: 1.8rem;
+	background-color: #5f646e;
+	padding: 0.3rem 0 0 0;
+}
+.immediately_get_left span{
+	line-height: 1.5rem;
+	font-size: 0.6rem;
+	color: #FFFFFF;
+}
+.ico_error{
+	width: 0.85rem;
+	height: 0.825rem;
+	background-position: 0 -1.525rem;
+	display: inline-block;
+	background-size: 7.5rem;
+	margin: 0;
+	vertical-align: top;
+	margin-top: 0.325rem;
+	margin-right: 0.75rem;
+	margin-left: 0.425rem;
+}
+.ico_orangetao{
+	width: 1.5rem;
+	height: 1.5rem;
+	background-position: 0 0;
+	display: inline-block;
+	background-size: 7.5rem;
+	margin: 0;
+	vertical-align: top;
+	margin-right: 0.45rem;
+}
+.immediately_get_right{
+	width: 22.5%;
+	padding: 0.7rem 0;
+	background-color: #FF4400;
+	margin-top: -1px;
+}
+.immediately_get_right p{
+	height: 0.7rem;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 0.65rem;
+	line-height: 0.7rem;
+}
+.img_top{
+	width: 100%;
+	height: 5rem;
+	background: url(../img/img_top.jpg) no-repeat;
+	display: inline-block;
+	background-size: contain;
+	margin-top: -1px;
+}
+.img_top span{
+	width: 0.35rem;
+	height: 0.35rem;
+	display: inline-block;
+	background-color: #676668;
+	border: 1px solid #5b5750;
+	border-radius: 0.175rem;
+	margin: 4.25rem 0.15rem 0 0.15rem;
+}
+.img_top .bg_orange_point{
+	background-color: #FF4400;
+}
+.tianmao_seach{
+	width: 100%;
+	height: 6.75rem;
+	border-bottom: 0.025rem solid #555555;
+	padding: 0.5rem 0 0 1.25rem;
+}
+.tianmao_img{
+	margin-right: 1.925rem;
+}
+.tianmao_img_1{
+	margin-bottom: 0.45rem;
+}
+.ico_tianmao{
+	width: 1.925rem;
+	height: 1.925rem;
+	background-position: 0 -2.5rem;
+	display: inline-block;
+	margin-bottom: 0.175rem;
+	background-size: 7.5rem;
+}
+.tianmao_img p{
+	text-align: center;
+	color: #8e8e8e;
+	font-size: 0.55rem;
+}
+.recommend{
+	width: 100%;
+	height: 0.8rem;
+	padding-top: 0.35rem;
+	padding-bottom: 0.35rem;
+}
+.ico_recommend1{
+	width: 2.5rem;
+	height: 0.75rem;
+	background-position: 0 -5rem;
+	display: inline-block;
+	background-size: 7.5rem;
+	margin-left: 0.5rem;
+	padding-right: 0.5rem;
+	border-right: 0.025rem solid #e8e8e8;
+	margin-top: 0.05rem;
+}
+.ico_recommend2{
+	width: 1.65rem;
+	height: 0.8rem;
+	background-position: 0 -6rem;
+	display: inline-block;
+	background-size: 7.5rem;
+	margin-left: 0.5rem;
+	margin-right: 0.3rem;
+	/*vertical-align: bottom;*/
+	
+}
+.recommend span{
+	font-size: 0.7rem;
+	color: #383838;
+	margin-top: -0.1rem;
+}
+.bg_grew_20{
+	width: 100%;
+	height: 0.5rem;
+	background-color: #eeeeee;
+}
+.scare_buying{
+	width: 100%;
+}
+.coffee_buying{
+	width: 40%;
+	border-right: 0.025rem solid #5E5A56;
+	padding: 0.7rem 0 0 0;
+}
+.coffee_buying p{
+	width: 3.25rem;
+	height: 1.425rem;
+	background: url(../img/scare_buying.jpg) no-repeat;
+	margin-left: 0.625rem;
+	background-size: contain;
+	margin-bottom: 0.25rem;
+}
+.coffee_buying div{
+	margin-left: 0.625rem;
+	margin-bottom: 0.55rem;
+}
+.time_backwords span{
+	width: 0.85rem;
+	height: 0.85rem;
+	line-height: 0.85rem;
+	text-align: center;
+	background-color: #333333;
+	color: #ffffff;
+	font-size: 0.5rem;
+	display: inline-block;
+}
+.time_backwords i{
+	width: 0.4rem;
+	height: 0.85rem;
+	background: url(../img/colon.jpg) no-repeat;
+	display: inline-block;
+	margin-left: 0;
+	margin-right: 0;
+	background-size: contain;
+	vertical-align: top;
+}
+.coffee_buying img{
+	width: 4.7rem;
+	height: 3.95rem;
+	background-size: contain;
+	margin-left: 1.35rem;
+}
+.goods_right{
+	width: 59.84375%;
+}
+.img_goods{
+	width: 7.5rem;
+	height: 1.925rem;
+	background-size: contain;
+	margin-top: 0.625rem;
+	margin-left: 0.65rem;
+	padding-bottom: 0.5rem;
+	border-bottom: 0.025rem solid #333333;
+}
+.goods_right_bottom img{
+	width: 3.025rem;
+	height: 4.05rem;
+	background-size: contain;
+	margin-top: 0.5rem;
+	margin-left: 0.75rem;
+}
+.left_cloths{
+	padding-right: 0.5rem;
+	border-right: 0.025rem solid #333333;
+}
+.bg_grew_201{
+	border-bottom: 0.075rem solid #7144ae;
+}
+.quality_goods{
+	width: 100%;
+	padding-top: 0.025rem;
+}
+.quality_goods_top{
+	width: 100%;
+	border-bottom: 0.025rem solid #8E8E8E;
+}
+.global_buying{
+	padding-bottom: 0.25rem;
+}
+.global_1{
+	width: 3.5rem;
+	height: 0.95rem;
+	background: url(../img/global_1.jpg) no-repeat;
+	display: block;
+	background-size: contain;
+}
+.global_2{
+	width: 2.5rem;
+	height: 0.625rem;
+	background: url(../img/global_2.jpg) no-repeat;
+	display: block;
+	background-size: contain;
+	margin-left: 0.625rem;
+	margin-top: 0.375rem;
+}
+.global_text{
+	font-size: 0.5rem;
+	color: #bcbcbc;
+	margin-left: 0.625rem;
+	margin-top: 0.075rem;
+}
+.global_3{
+	width: 2rem;
+	height: 0.7rem;
+	background: url(../img/global_3.jpg) no-repeat;
+	display: block;
+	background-size: contain;
+	margin-left: 0.625rem;
+	margin-top: 0.075rem;
+}
+.cloth_2 img{
+	width: 3.35rem;
+	height: 3.2rem;
+	background-size: contain;
+	margin-left: 0.5rem;
+	margin-top: 0.825rem;
+}
+.global_right{
+	margin-top: 1.25rem;
+}
+.quality_goods_bottom div{
+	width: 3.175rem;
+	border-right: 0.025rem solid #545454;
+}
+.suning_shop{
+	font-size: 0.5rem;
+	margin-top: 0.4rem;
+	margin-left: 0.4rem;
+	color: #081e2a;
+}
+.ipone_6s{
+	font-size: 0.5rem;
+	margin-top: 0.1rem;
+	margin-left: 0.4rem;
+	color: #aeaeae;
+}
+.img_ipone6s img{
+	width: 1.5rem;
+	height: 3rem;
+	background-size: contain;
+	margin-top: 0.4rem;
+	margin-left: 0.7rem;
+}
+.no_border_right{
+	border: none;
+}
+.img_boxs_bags img{
+	width: 100%;
+	height: 3.2rem;
+	background-size: contain;
+}
+.hot_shops{
+	width: 100%;
+	height: 1.5rem;
+	border-top: 0.025rem solid #5E5A56;
+	border-bottom: 0.025rem solid #5E5A56;
+}
+.hot_shops_text{
+	line-height: 1.5rem;
+	color: #000000;
+	font-size: 0.75rem;
+	padding-left: 0.3rem;
+	border-left: 0.25rem solid #FF0000;
+}
+.ico_hot_shops{
+	width: 0.625rem;
+	height: 0.625rem;
+	background-color: #ff4400;
+	color: #FFFFFF;
+	font-size: 0.45rem;
+	text-align: center;
+	line-height: 0.625rem;
+	margin-top: 0.5rem;
+	margin-right: 0.375rem;
+	margin-left: 0.2rem;
+}
+.hot_shops_more{
+	font-size: 0.45rem;
+	line-height: 0.625rem;
+	margin-top: 0.5rem;
+}
+.women_cloths_left{
+	padding: 0.65rem 0 0 0.35rem;
+}
+.dark_text{
+	font-size: 0.65rem;
+	color: #000000;
+	margin-left: 0.25rem;
+	margin-bottom: 0.125rem;
+}
+.shallow_text{
+	font-size: 0.5rem;
+	color: #999999;
+	margin-left: 0.25rem;
+}
+.women_cloths_left img{
+	width: 6.95rem;
+	height: 3.5rem;
+	background-size: contain;
+	margin-top: 0.75rem;
+}
+.baby_goods img{
+	width: 2.95rem;
+	height: 3.875rem;
+	background-size: contain;
+	margin-left: 0.7rem;
+	margin-top: 0.7rem;
+}
+.umbrella_goods div{
+	width: 7.7rem;
+	margin-left: 0.3rem;
+	margin-top: 0.3rem;
+	margin-bottom: 0.75rem;
+}
+.img_san1{
+	width: 5rem;
+	height: 5rem;
+	background-size: contain;
+	margin-right: 0.125rem;
+}
+.img_san2{
+	width: 2.5rem;
+	height: 2.5rem;
+	background-size: contain;
+	margin-bottom: 0.125rem;
+}
+.umbrella_goods div p{
+	font-size: 0.6rem;
+}
+.guess_you_like{
+	width: 100%;
+	font-size: 0.6rem;
+	height: 1.25rem;
+	background-color: #eeeeee;
+	color: #5f646e;
+	text-align: center;
+	line-height: 1.25rem;
+}
+.lot_of_pics{
+	width: 100%;
+	background-color: #eeeeee;
+}
+.grils_1{
+	width: 7.9rem;
+}
+.bg_wihte{
+	height: 3.6rem;
+	background-color: #FFFFFF
+}
+.grils_1 img{
+	width: 7.9rem;
+	height: 7.4rem;
+	background-size: contain;
+}
+.grils_1 p{
+	font-size: 0.5rem;
+	color: #919191;
+	margin-left: 0.5rem;
+	padding-top: 0.375rem;
+}
+.grils_1 .she_buying{
+	font-size: 0.85rem;
+	color: #5d3299;
+}
+.eggs_1{
+	width: 7.9rem;
+	margin-left: 0.2rem;
+}
+.eggs_1 img{
+	width: 7.9rem;
+	height: 7.5rem;
+	background-size: contain;
+}
+.eggs_1 p{
+	font-size: 0.5rem;
+	color: #919191;
+	margin-left: 0.5rem;
+	padding-top: 0.375rem;
+}
+.eggs_1 .orange{
+	color: #FF0000;
+	font-size: 0.625rem;
+	margin-left: 0.625rem;
+}
+.qixi{
+	background-color: #eeeeee;
+}
+.qixi img{
+	width: 14.9rem;
+	height: 4.1rem;
+	background-size: contain;
+	margin: 0.25rem 0 0.25rem 0.5rem;
+}
+.bottom_sign{
+	width: 100%;
+	height: 4.25rem;
+	background-color: #4e525e;
+	padding-top: 1rem;
+}
+.bottom_sign span{
+	padding: 0 0.75rem;
+	height: 1.5rem;
+	color: #FFFFFF;
+	font-size: 0.6rem;
+	margin-left: 0.5rem;
+	border: 0.05rem solid #000000;
+	border-radius: 0.25rem;
+	text-align: center;
+	line-height: 1.5rem;
+}
+.bottom_sign p{
+	font-size: 0.55rem;
+	color: #FFFFFF;
+	margin-top: 1rem;
+	margin-left: 4.1rem;
+}
